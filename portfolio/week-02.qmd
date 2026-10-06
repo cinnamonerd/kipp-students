@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "3"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -17,6 +17,75 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Satu episode komunikasi dengan diri sendiri.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
+
+## **Bagian 1: Identifikasi Kasus (Bahan Mentah)**
+
+Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-baru ini Anda alami (misalnya: pesan tidak dibalas, kritik dari dosen, tugas kelompok terhambat, atau rencana yang batal) \[11, 13\]. *Catatan Etis: Pilih kasus yang cukup aman untuk dipelajari secara akademis. Jangan memilih situasi kekerasan atau trauma berat yang membutuhkan bantuan profesional \[13\].*
+
+### **1. Peristiwa yang Dapat Diamati (Fakta Objektif)**
+
+*Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata "selalu" atau "pasti"), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video \[13, 145\].* \> **Contoh Kurang Tepat:** *"Rekan kelompok saya malas dan sengaja mengabaikan tugas kelompok."*\
+\> **Contoh Tepat:** *"Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59."* \* **Tuliskan Fakta Anda di sini:** Beberapa minggu ini saya sedang bertengkar dengan teman saya, N, karena suatu hal yang melibatkan orang lain. Meskipun hal tersebut menurut saya adalah salah kami berdua, tetapi dia tidak mau mengakui kesalahannya, padahal saya sudah meminta maaf dan berusaha memperbaiki kesalahan dari sisi saya. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **2. Interpretasi Pertama (Asumsi Otomatis)**
+
+*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi \[13, 145\].* \* **Tuliskan Interpretasi Pertama Anda di sini:** Menurut saya, dia tidak ingin mengakui kesalahannya karena gengsi dan mungkin menurutnya tindakan yang ia buat sudah benar, padahal dari pandangan saya, apa yang dia lakukan juga merupakan hal yang salah. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **3. Emosi & Sensasi Tubuh**
+
+*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) \[13, 147\].* \* **Emosi yang Dirasakan (dan skala 0-10):**  Marah: 7, Sedih: 10, Kecewa: 10 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Sensasi Tubuh yang Muncul:** dada sesak, rahang menegang \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+------------------------------------------------------------------------
+
+## **Bagian 2: Membedah Tiga Narasi**
+
+Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang berbeda untuk melihat bagaimana narasi tersebut mengarahkan pilihan hidup Anda \[13, 157\].
+
+```         
++---------------------------------------------------------------------------------+
+|                                 TIGA KACAMATA                                   |
+|                                                                                 |
+|  1. NARASI KORBAN          2. NARASI ANALITIS          3. NARASI PERTUMBUHAN    |
+|  "Semua kendali di luar    "Membedah fakta,            "Mengakui kesulitan,     |
+|  diri saya, saya lumpuh    asumsi, dan hal yang        menemukan pelajaran,     |
+|  tanpa pilihan tindakan."  bisa saya kendalikan."      dan bertindak."          |
++---------------------------------------------------------------------------------+
+```
+
+### **Versi A: Narasi Korban (Victim Narrative)**
+
+*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif \[13, 157\].* \* **Isi Narasi Korban Anda:** Saya selalu disalahkan dalam hal apapun, padahal hal tersebut sepenuhnya salah teman saya. Teman saya mempunyai ego yang terlalu tinggi bahkan tidak ingin mengakui kesalahannya. Saya merasa bahwa saya selalu dirugikan dalam hal apapun dan teman saya tidak pernah benar-benar menjadi teman yang baik. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** *(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)* Menyindir teman saya di media sosial, agar ia sadar akan perbuatannya. Selain itu, saya akan memutuskan hubungan sebagai teman dengannya. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **Versi B: Narasi Analitis (Analytical Narrative)**
+
+*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung \[13, 157, 158\].* \* **Apa fakta yang benar-benar telah terbukti?** Masalah tersebut merupakan sepenuhnya kesalahan kami berdua, bukan hanya saya maupun dia. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** Teman saya melihat dari sudut pandang yang berbeda, jadi mungkin menurutnya saya memang pihak yang sepenuhnya bersalah di sini. Selain itu, teman saya mungkin lebih berpihak ke orang lain yang dilibatkan dalam masalah ini. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** Pengelolaan emosi, perilaku saya terhadap teman saya, dan langkah selanjutnya yang dapat saya lakukan, yaitu memutuskan hubungan dengan teman saya. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **Versi C: Narasi Pertumbuhan (Growth Narrative)**
+
+*Gunakan kacamata belas kasih (*compassion*) dan pola pikir bertumbuh (*growth mindset*). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda \[13, 151, 157\].* \* **Isi Narasi Pertumbuhan Anda:** Saya menerima bahwa masalah tersebut adalah kesalahan saya, tetapi saya merasa marah, kecewa, dan sedih karena teman saya tidak ingin mengakui kesalahannya. Namun, masalah ini digunakan bukan untuk menghakimi siapa yang benar dan salah, melainkan untuk belajar berkomunikasi dengan lebih baik, melatih sikap rendah hati, dan melatih sikap sabar terhadap masalah apapun yang dihadapi. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pelajaran apa yang dapat saya ambil dari situasi ini?** Saya belajar untuk bisa lebih mengendalikan emosi saya, dan berpikir secara jernih dan empatik demi menyelesaikan masalah dengan lebih baik dan situasi bisa lebih terkontrol. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+------------------------------------------------------------------------
+
+## **Bagian 3: Merancang Respons (Action & Support)**
+
+### **1. Pilihan Respons Terbaik**
+
+*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut \[13, 157, 158\].* \* **Langkah nyata yang saya pilih:** Pilihan respons terbaik saya adalah untuk memutuskan hubungan teman dengan dia, karena dia tidak mau berkomunikasi dengan saya sama sekali sehingga saya juga tidak tahu apa lagi yang harus saya lakukan, padahal saya sudah meminta maaf dan berusaha memperbaiki diri saya sendiri. Jika konflik sudah mereda di kemudian hari, saya akan menanyakan kabar dia dan mungkin coba untuk berbaikan dengan teman saya. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **2. Dukungan yang Diperlukan**
+
+*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* **Nama rekan/pendamping:** Sahabat saya, R dan Z \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+------------------------------------------------------------------------
+
+## **Panduan Evaluasi Mandiri (Rubrik Portofolio)**
+
+Simpan lembar kerja ini ke dalam **Portofolio Komunikasi** Anda \[3, 134\]. Evaluasi kualitas pengerjaan Anda menggunakan kriteria berikut sebelum diserahkan kepada dosen \[13, 159\]:
+
+1.  **Pemisahan Fakta vs Cerita:** Apakah fakta yang Anda tulis di Bagian 1 benar-benar bebas dari asumsi, penilaian moral, dan dramatisasi? \[13, 159\]
+2.  **Kekayaan Alternatif:** Apakah Narasi Analitis Anda berhasil menawarkan minimal 2 alternatif penjelasan rasional yang berbeda dari interpretasi pertama Anda? \[13, 159\]
+3.  **Kematangan Emosional:** Apakah emosi Anda diakui secara jujur tanpa dikuasai sepenuhnya oleh reaksi impulsif batin? \[13, 159\]
+4.  **Kepemilikan Tindakan:** Apakah tindakan akhir yang Anda pilih di Bagian 3 bersifat spesifik, realistis, dan berorientasi pada penyelesaian masalah, bukan sekadar menghindari ketidaknyamanan? \[13, 159\]
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
