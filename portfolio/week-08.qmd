@@ -28,12 +28,12 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1_18225099.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a_18225099.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b_18225099.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a_18225099.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b_18225099.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Siap dinilai | [Isi] |
+| 1 | [hasil_1_18225099.qmd](UTS/hasil_1.qmd) | Diri; Lana | Siap dinilai | [Isi] |
+| 2a | [hasil_2a_18225099.qmd](UTS/hasil_2a.qmd) | Dimas | Siap dinilai | [Isi] |
+| 2b | [hasil_2b_18225099.qmd](UTS/hasil_2b.qmd) | Cyntia | Siap dinilai | [Isi] |
+| 3a | [hasil_3a_18225099.qmd](UTS/hasil_3a.qmd) | Budi | Siap dinilai | [Isi] |
+| 3b | [hasil_3b_18225099.qmd](UTS/hasil_3b.qmd) | Cyntia | Siap dinilai | [Isi] |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
