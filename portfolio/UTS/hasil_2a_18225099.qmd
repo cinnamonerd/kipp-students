@@ -1,0 +1,119 @@
+---
+title: "Laporan Asesmen Komunikasi — Sesi 2a"
+subtitle: "Kasus 2: Konflik Pembagian Tugas Kelompok"
+author: "Lana Dzakira Cahyadi"
+date: "2026-10-15"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Identitas Peserta
+
+- **Nama:** Lana Dzakira Cahyadi
+- **NIM:** 18225099
+- **Kelas:** 01
+- **Metode asesmen:** Teks
+- **Sesi:** 2a
+- **Kasus:** 2 — Ali (K2-01)
+
+# Tujuan Komunikasi
+
+Peserta menyatakan bahwa tujuan utamanya adalah memahami alasan Ali merasa pembagian tugas kelompok tidak adil serta mendengarkan sudut pandangnya tanpa langsung menghakimi. Peserta ingin mengajak Ali berdiskusi secara terbuka untuk menemukan solusi yang adil, membagi tanggung jawab sesuai kemampuan dan kondisi setiap anggota, serta memastikan tugas selesai sebelum tenggat. Peserta juga ingin menjaga persahabatan agar masalah tidak menimbulkan kesalahpahaman atau konflik berkepanjangan.
+
+# Ringkasan Simulasi
+
+## Tahap 1 — Menggali alasan Ali
+
+Ali menyampaikan bahwa ia merasa mendapat bagian analisis yang cukup banyak sejak awal. Di tengah pengerjaan, ia juga mengambil pekerjaan tambahan karena beberapa anggota lain belum menyelesaikan bagian mereka. Ali merasa kesal karena khawatir orang lain menganggap ia akan selalu sanggup menanggung pekerjaan tambahan, sementara ia juga memiliki kesibukan sendiri.
+
+Peserta merespons dengan mengakui perasaan Ali dan bertanya bagian mana yang terasa tidak seimbang serta apakah pembagian tersebut sudah seperti itu sejak awal atau berubah selama pengerjaan. Respons ini membantu memperjelas masalah sebelum menawarkan solusi.
+
+## Tahap 2 — Mengidentifikasi kebutuhan
+
+Setelah Ali menjelaskan situasinya, peserta merangkum bahwa beban Ali berasal dari bagian analisis yang cukup besar dan pekerjaan tambahan yang ia ambil. Peserta menyampaikan bahwa Ali berhak mengutarakan keberatannya, kemudian menanyakan apa yang paling dibutuhkan Ali: meninjau ulang pembagian tugas atau memindahkan sebagian pekerjaan tambahan kepada anggota lain.
+
+Peserta juga mengingatkan bahwa tenggat tinggal 48 jam dan menawarkan bantuan untuk menyampaikan persoalan kepada kelompok tanpa saling menyalahkan.
+
+## Tahap 3 — Mendorong komunikasi asertif
+
+Ali mengaku takut dianggap egois atau tidak bertanggung jawab apabila menyampaikan keberatan. Peserta menegaskan bahwa menyampaikan kebutuhan tidak sama dengan bersikap egois. Peserta menyarankan agar Ali menjelaskan pekerjaan yang sudah ditangani dan meminta pembagian ulang berdasarkan kemampuan masing-masing anggota.
+
+Peserta mengusulkan agar Ali mencatat pekerjaan yang sudah selesai dan pekerjaan tambahan yang masih perlu dibagi, lalu mendiskusikannya dengan kelompok pada hari yang sama. Peserta menyatakan bersedia mendukung diskusi, tetapi menekankan bahwa semua anggota perlu dilibatkan agar tanggung jawab tidak hanya dibebankan kepada Ali atau peserta.
+
+## Tahap 4 — Menghadapi kemungkinan penolakan
+
+Ali khawatir anggota kelompok akan menganggap masalahnya sepele dan ia tetap harus menyelesaikan pekerjaan yang belum selesai. Peserta mengakui bahwa Ali tidak harus terus mengalah demi menjaga pertemanan. Peserta menyarankan agar Ali menjelaskan batas tanggung jawab dan pekerjaan tambahan yang telah ditangani. Jika anggota lain tetap tidak mau bekerja sama, peserta menyarankan untuk mencatat pembagian tugas dan kontribusi masing-masing, lalu mempertimbangkan bantuan ketua kelompok atau dosen jika diperlukan.
+
+Peserta tetap mengarahkan pembicaraan pada kesepakatan baru yang realistis sebelum tenggat 48 jam, sembari mendorong Ali menyampaikan kebutuhannya sendiri.
+
+# Evaluasi Komunikasi Berdasarkan ASK
+
+## Attitude — Sikap
+
+**Kekuatan yang tampak:**
+
+- Menunjukkan empati terhadap rasa kesal dan kekhawatiran Ali.
+- Tidak langsung menyalahkan Ali maupun anggota kelompok lainnya.
+- Menghargai pentingnya keadilan dan hubungan persahabatan.
+- Menekankan bahwa menjaga hubungan tidak berarti harus terus mengalah.
+- Mendorong tanggung jawab bersama, bukan menyalahkan satu pihak.
+
+**Area pengembangan:**
+
+- Tetap perlu memberi ruang bagi anggota lain untuk menjelaskan situasinya sebelum menyimpulkan bahwa mereka tidak mau bekerja sama.
+- Dukungan kepada Ali sebaiknya tetap disertai upaya menjaga diskusi agar adil bagi semua pihak.
+
+## Skills — Keterampilan
+
+**Kekuatan yang tampak:**
+
+- Menggunakan pertanyaan terbuka untuk memahami sumber ketidakpuasan Ali.
+- Merangkum kembali penjelasan Ali untuk menunjukkan bahwa pesannya didengar.
+- Mengusulkan komunikasi asertif yang berfokus pada beban kerja dan solusi, bukan tuduhan.
+- Memberikan langkah yang dapat dilakukan: mencatat pekerjaan yang telah diselesaikan, mengidentifikasi pekerjaan tambahan, dan mendiskusikan pembagian baru.
+- Menyarankan eskalasi secara proporsional apabila diskusi tidak menghasilkan kesepakatan.
+
+**Area pengembangan:**
+
+- Membantu Ali mempersiapkan kalimat yang spesifik dan berbasis fakta, misalnya menyebut pekerjaan tambahan, kapasitas yang tersedia, dan usulan pembagian ulang.
+- Memastikan Ali sendiri tetap menjadi pihak utama yang menyampaikan kebutuhan, sementara peserta mendukung prosesnya tanpa mengambil alih.
+- Sebelum eskalasi kepada ketua kelompok atau dosen, memberi kesempatan yang wajar kepada kelompok untuk menanggapi dan menyepakati solusi.
+
+## Knowledge — Pengetahuan
+
+**Pemahaman yang tampak:**
+
+- Konflik dapat ditangani dengan menggali kebutuhan dan fakta sebelum menentukan solusi.
+- Pembagian tugas yang adil perlu mempertimbangkan beban kerja, kemampuan, dan kondisi anggota.
+- Komunikasi asertif memungkinkan seseorang menyampaikan keberatan tanpa menyerang pihak lain.
+- Menjaga persahabatan tidak berarti mengabaikan batas tanggung jawab.
+- Dokumentasi kontribusi dan bantuan pihak yang relevan dapat dipertimbangkan jika upaya diskusi tidak berhasil.
+
+**Area pengembangan:**
+
+- Menguji solusi dengan kesepakatan yang konkret: siapa mengerjakan apa, kapan selesai, dan bagaimana kemajuan akan diperiksa.
+- Memastikan pembagian ulang tidak sekadar memindahkan beban dari satu orang ke orang lain tanpa mempertimbangkan kapasitas keseluruhan kelompok.
+
+# Retest
+
+Dalam retest, Ali menyampaikan bahwa ia masih kesal dan takut dianggap egois apabila menyampaikan keberatan. Ia juga khawatir tetap harus mengerjakan bagian yang belum selesai apabila anggota lain tidak bekerja sama.
+
+Peserta merespons dengan menegaskan hak Ali untuk menyampaikan batas tanggung jawabnya, menyarankan pencatatan pekerjaan dan kontribusi, serta mengusulkan diskusi kelompok pada hari yang sama. Peserta juga menyebut kemungkinan meminta bantuan ketua kelompok atau dosen jika kerja sama tidak tercapai.
+
+Respons retest menunjukkan bahwa peserta dapat mempertahankan sikap empatik sambil menjadi lebih tegas tentang batas tanggung jawab dan langkah lanjutan. Pengembangan berikutnya adalah menyertakan rencana kesepakatan yang lebih terukur dan memastikan semua pihak diberi kesempatan untuk merespons.
+
+# Refleksi Peserta
+
+Peserta menyampaikan bahwa pelajaran terpenting adalah konflik bukan hanya tentang mencari solusi, tetapi juga memahami perasaan dan kebutuhan setiap pihak. Peserta berusaha menunjukkan empati kepada Ali tanpa langsung menyalahkan anggota lain, sekaligus menekankan pembagian tugas yang adil dan keberanian menyampaikan batas tanggung jawab.
+
+Peserta menyimpulkan bahwa menjaga persahabatan bukan berarti harus terus mengalah, melainkan berani berkomunikasi secara terbuka dan saling menghargai. Ke depannya, peserta ingin menyampaikan pendapat dengan tegas tanpa terkesan menyalahkan, serta membantu orang lain menemukan solusi bersama tanpa mengambil alih tanggung jawab mereka.
+
+# Kesimpulan
+
+Berdasarkan percakapan simulasi dan retest, peserta memperlihatkan kemampuan untuk mendengarkan secara empatik, menggali masalah melalui pertanyaan terbuka, dan mengarahkan percakapan menuju solusi yang lebih adil. Peserta juga menunjukkan pemahaman bahwa ketegasan dan pemeliharaan hubungan dapat berjalan beriringan.
+
+Fokus pengembangan yang disarankan adalah memperjelas kesepakatan akhir melalui pembagian tugas, penanggung jawab, dan tenggat yang konkret; memberi ruang bagi semua anggota untuk menjelaskan kondisi mereka; serta mendukung Ali agar menyampaikan kebutuhannya sendiri tanpa menyerahkan seluruh tanggung jawab komunikasi kepada peserta.
+
+**Catatan metodologis:** Laporan ini merupakan evaluasi kualitatif berdasarkan percakapan teks yang berlangsung pada sesi ini. Laporan tidak menyatakan skor numerik atau hasil pengukuran psikometrik.

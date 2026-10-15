@@ -1,0 +1,140 @@
+---
+title: "Laporan Asesmen Sesi 1 — Memimpin Diri dan Terus Belajar"
+author: "Lana Dzakira Cahyadi"
+date: "2026-10-15"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Identitas
+
+- **Nama:** Lana Dzakira Cahyadi
+- **NIM:** 18225099
+- **Sesi:** 1
+- **Kasus:** 1 — Memimpin Diri dan Terus Belajar
+- **Fokus asesmen:** Pengelolaan diri, kebiasaan belajar, komunikasi suportif, dan refleksi.
+
+# 1. Tujuan Pengembangan Diri
+
+Dalam simulasi, tujuan pengembangan diri yang dibahas adalah meningkatkan pengelolaan waktu dan konsistensi belajar agar tugas kuliah dapat diselesaikan lebih teratur, pemahaman materi meningkat, dan pekerjaan tidak menumpuk menjelang ujian.
+
+Hambatan yang dikenali meliputi kecenderungan menunda pekerjaan, distraksi, serta turunnya motivasi ketika materi terasa sulit. Strategi awal yang dipilih adalah menentukan prioritas, memecah tugas menjadi bagian kecil, dan mencoba teknik Pomodoro selama 25 menit.
+
+# 2. Ringkasan Simulasi
+
+## 2.1 Respons awal terhadap masalah belajar
+
+Dalam respons awal, Lana menggambarkan rasa kesal karena tugas belum selesai meskipun sebelumnya sudah berencana mengerjakannya. Lana tidak berhenti pada kritik terhadap diri sendiri, tetapi menyatakan bahwa tidak semua materi harus dipahami sekaligus. Ia berencana mulai dari bagian yang lebih mudah, mengerjakan sedikit demi sedikit, menjauhkan ponsel, dan mencoba fokus selama 25 menit.
+
+**Bukti dari percakapan:** Lana mengidentifikasi distraksi dan penundaan sebagai hambatan, lalu mengusulkan langkah yang dapat dilakukan segera.
+
+## 2.2 Simulasi komunikasi dengan Dimas
+
+Ketika Dimas merasa frustrasi karena tugas belum selesai, Lana:
+- mengakui kelelahan dan rasa kesal yang dialami Dimas;
+- membedakan kesulitan saat ini dari penilaian bahwa dirinya tidak mampu konsisten;
+- mengajak Dimas menentukan tugas yang penting dan memulai dari satu bagian kecil;
+- menyarankan mengurangi distraksi dan mencoba Pomodoro;
+- menawarkan bantuan untuk memahami materi.
+
+Respons tersebut menggabungkan empati, dorongan untuk bertanggung jawab, dan saran yang konkret. Salah satu hal yang dapat ditingkatkan adalah mempersingkat respons dan mengajukan pertanyaan yang membuat Dimas ikut menentukan langkah berikutnya.
+
+## 2.3 Retest
+
+Pada tahap retest, Dimas menyampaikan bahwa bagian yang dianggap mudah pun masih sulit dipahami dan ia meragukan manfaat melanjutkan pekerjaan. Lana tidak sekadar mengulang saran tentang manajemen waktu. Ia mencoba mengidentifikasi sumber kesulitan dengan menanyakan apakah penjelasan terlalu rumit, ada konsep dasar yang belum dipahami, atau Dimas terlalu lelah untuk fokus.
+
+Lana kemudian mengusulkan agar Dimas memilih satu bagian yang membingungkan, menjelaskan apa yang sudah dipahami, dan menunjukkan bagian yang belum dimengerti. Ia juga mengakui bahwa istirahat dapat menjadi pilihan jika Dimas benar-benar lelah, dengan rencana waktu untuk kembali mengerjakan tugas.
+
+**Perkembangan yang terlihat:** pendekatan Lana bergerak dari fokus utama pada pengaturan waktu menuju pemahaman penyebab masalah dan penyesuaian strategi.
+
+# 3. Asesmen Berdasarkan ASK
+
+Penilaian berikut merupakan evaluasi kualitatif berdasarkan percakapan yang tersedia, bukan skor psikometrik atau pengukuran formal.
+
+## 3.1 Attitude (Sikap)
+
+**Kekuatan yang tampak**
+- Menunjukkan empati dengan mengakui rasa lelah dan frustrasi Dimas.
+- Tidak langsung menyalahkan atau memberi label negatif.
+- Mempertahankan orientasi pada perbaikan tanpa menuntut hasil sempurna.
+- Memahami bahwa istirahat bisa diperlukan, tetapi sebaiknya disertai rencana untuk kembali melanjutkan.
+
+**Area pengembangan**
+- Menjaga agar dukungan tidak berubah menjadi janji yang terlalu luas. Tawaran spesifik, misalnya membantu memahami satu konsep, lebih jelas dan realistis daripada menyatakan akan selalu membantu.
+
+## 3.2 Skills (Keterampilan)
+
+**Kekuatan yang tampak**
+- Memecah masalah menjadi langkah-langkah kecil.
+- Menyampaikan saran yang dapat dilakukan, seperti menentukan prioritas dan mengurangi distraksi.
+- Menggunakan pertanyaan untuk menggali sumber kesulitan.
+- Menawarkan dukungan tanpa mengambil alih seluruh tanggung jawab Dimas.
+
+**Area pengembangan**
+- Meringkas respons agar pesan utama mudah ditangkap ketika lawan bicara sedang kewalahan.
+- Lebih dahulu mengajukan satu pertanyaan terbuka dan mendengarkan jawaban sebelum memberikan beberapa saran sekaligus.
+- Mengakhiri respons dengan langkah konkret yang disepakati bersama.
+
+## 3.3 Knowledge (Pengetahuan)
+
+**Pemahaman yang tampak**
+- Mengetahui bahwa pengelolaan waktu tidak selalu menyelesaikan kesulitan belajar.
+- Mengenali kemungkinan penyebab kesulitan: penjelasan yang rumit, konsep dasar yang belum dikuasai, dan kelelahan.
+- Memahami bahwa tugas dapat dipecah menjadi bagian kecil dan bahwa strategi perlu disesuaikan dengan penyebab masalah.
+- Memahami perbedaan antara berempati terhadap perasaan seseorang dan membenarkan semua perilakunya.
+
+**Area pengembangan**
+- Memastikan saran didasarkan pada penyebab yang sudah digali, bukan asumsi awal.
+- Memeriksa pemahaman lawan bicara setelah menawarkan strategi.
+
+# 4. Refleksi Lana
+
+Dalam refleksinya, Lana menyatakan bahwa perubahan terpenting adalah memahami bahwa menghadapi masalah belajar bukan hanya soal memaksa diri untuk bangkit, melainkan juga mencari penyebab kesulitan dan memilih solusi yang sesuai. Pada awalnya, perhatian lebih terarah pada pengaturan waktu. Setelah mendengar respons Dimas, Lana menyadari bahwa strategi tersebut mungkin tidak cukup dan perlu alternatif lain.
+
+Lana mengidentifikasi kekuatannya sebagai kemampuan melihat masalah dari sisi positif, memberikan dukungan secara asertif, dan mengajak orang lain memulai dari hal kecil. Ia juga menekankan pentingnya berempati tanpa membenarkan kesalahan orang lain.
+
+Area yang ingin dikembangkan adalah lebih banyak mendengarkan dan memahami penyebab masalah sebelum memberi saran, sehingga evaluasi dan bantuan yang diberikan menjadi lebih bijak.
+
+# 5. Pemetaan Reflektif dengan TAIDA
+
+Bagian ini merupakan pemetaan retrospektif terhadap isi percakapan menggunakan tahapan TAIDA: **Tracking, Analyzing, Imaging, Deciding, Acting**. Pemetaan ini bukan klaim bahwa semua tahap telah dilakukan sebagai prosedur formal.
+
+## 5.1 Tracking — Mengamati situasi
+
+Lana mengidentifikasi pola penundaan, distraksi, frustrasi, dan kesulitan memahami materi. Dalam simulasi, Lana juga memperhatikan perubahan keadaan Dimas setelah mencoba mulai mengerjakan tugas.
+
+## 5.2 Analyzing — Menganalisis penyebab
+
+Pada retest, Lana mengajukan beberapa kemungkinan penyebab: penjelasan yang rumit, konsep dasar yang belum dipahami, atau kelelahan. Ini menunjukkan upaya untuk tidak menyamakan semua masalah dengan kurangnya disiplin waktu.
+
+## 5.3 Imaging — Membayangkan kondisi yang diinginkan
+
+Kondisi yang diinginkan adalah belajar secara lebih konsisten, memahami materi secara bertahap, menyelesaikan tugas dengan lebih teratur, serta mampu membantu orang lain tanpa menghakimi.
+
+## 5.4 Deciding — Menentukan pilihan
+
+Pilihan yang muncul dalam percakapan meliputi menentukan prioritas, memulai dari bagian kecil, mencoba Pomodoro, memeriksa konsep yang belum dipahami, dan beristirahat jika terlalu lelah dengan rencana untuk kembali bekerja.
+
+## 5.5 Acting — Mengambil tindakan
+
+Tindakan yang direncanakan adalah menjauhkan ponsel, fokus selama 25 menit, memilih satu bagian yang membingungkan, dan menjelaskan bagian yang sudah maupun belum dipahami. Dalam percakapan yang tersedia, tindakan tersebut masih berupa rencana dan saran; belum ada bukti bahwa semuanya telah dilaksanakan atau bahwa hasil akhirnya telah diukur.
+
+# 6. Kesimpulan
+
+Berdasarkan simulasi dan refleksi, Lana menunjukkan sikap suportif, orientasi pada perbaikan, serta kemampuan menyusun langkah-langkah kecil yang realistis. Perkembangan paling jelas terlihat pada retest: Lana tidak hanya menyarankan pengaturan waktu, tetapi mulai menggali penyebab kesulitan dan menyesuaikan dukungan dengan keadaan Dimas.
+
+Prioritas pengembangan selanjutnya adalah membuat komunikasi lebih ringkas, lebih banyak mendengarkan sebelum memberi saran, dan menyepakati satu langkah awal bersama lawan bicara. Karena bukti yang tersedia berupa percakapan simulasi, kesimpulan ini menggambarkan perilaku yang ditampilkan dalam sesi, bukan penilaian menyeluruh atas karakter atau kemampuan Lana di semua situasi.
+
+# 7. Rencana Tindak Lanjut
+
+1. Sebelum belajar, tulis satu tugas prioritas dan langkah pertama yang dapat diselesaikan.
+2. Jika mengalami kesulitan memahami materi, identifikasi bagian yang belum dipahami sebelum mengganti strategi.
+3. Gunakan sesi fokus singkat bila sesuai, lalu evaluasi apakah hambatannya berupa distraksi, pemahaman konsep, atau kelelahan.
+4. Saat membantu orang lain, mulai dengan mengakui perasaan dan mengajukan satu pertanyaan terbuka.
+5. Berikan saran yang spesifik dan ringkas, lalu periksa apakah saran tersebut sesuai bagi orang yang dibantu.
+
+---
+
+*Catatan metodologis: Laporan ini disusun dari percakapan simulasi dan refleksi yang tersedia pada sesi 1. Tidak ada skor numerik, observasi di luar percakapan, atau bukti pelaksanaan tindakan yang ditambahkan.*

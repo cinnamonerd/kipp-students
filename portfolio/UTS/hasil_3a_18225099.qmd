@@ -1,0 +1,85 @@
+---
+title: "Laporan Asesmen QMD — Sesi 3a"
+author: "Lana Dzakira Cahyadi"
+nim: "18225099"
+kelas: "01"
+metode: "Teks"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Identitas Asesmen
+
+- **Nama:** Lana Dzakira Cahyadi
+- **NIM:** 18225099
+- **Kelas:** 01
+- **Metode asesmen:** Teks
+- **Sesi:** 3a
+- **Kasus:** Budi — kebutuhan pencatatan pesan dan pesanan pelanggan
+
+# Tujuan dan Perencanaan Awal
+
+Peserta ingin memahami kendala Budi dalam mengelola pertanyaan pelanggan dan pesanan, lalu membantu menemukan solusi yang sesuai dengan kebutuhan serta kemampuan usaha. Tujuannya adalah membuat pekerjaan lebih teratur, mengurangi kesalahan, dan meningkatkan pelayanan tanpa menambah beban yang tidak perlu.
+
+Peserta memperkirakan Budi mengutamakan kelancaran usaha dan kepuasan pelanggan, tetapi mungkin khawatir terhadap biaya, waktu belajar, dan kerumitan sistem baru. Karena itu, peserta merencanakan percakapan yang ramah, menggali proses kerja dan dampaknya, membandingkan pilihan, serta mempertimbangkan uji coba kecil. Peserta tidak mengasumsikan bahwa AI harus menjadi solusi.
+
+# Ringkasan Percakapan Aktual
+
+Budi menjelaskan bahwa ia membalas pesan WhatsApp dan mencatat pesanan sendiri. Saat pelanggan ramai, pesan kadang terlewat dan pernah ada pesanan yang lupa dicatat. Dampaknya, pelanggan perlu mengirim pesan ulang atau memilih membeli di tempat lain. Budi menggunakan buku untuk mencatat pesanan dan membaca pesan satu per satu; ia pernah mencoba memberi tanda pada pesan yang belum selesai, tetapi cara itu belum selalu berhasil ketika pesan masuk bertubi-tubi.
+
+Peserta menanggapi dengan empati dan pertanyaan terbuka untuk memahami dampak masalah, cara Budi memantau pesan, cara pencatatan pesanan, dan bagian yang paling menyita waktu. Peserta merangkum bahwa masalah utamanya adalah kesulitan memantau pesan dan pesanan saat ramai, bukan ketidakmampuan Budi menangani pelanggan.
+
+Setelah Budi menyatakan bahwa ketepatan pencatatan pesanan menjadi prioritas dan ia tidak ingin aplikasi rumit atau biaya besar, peserta menawarkan dua pilihan: buku khusus dengan format tetap atau spreadsheet sederhana. Peserta menyarankan memulai dari pencatatan sederhana yang sudah familier bagi Budi.
+
+Peserta mengusulkan uji coba tiga hari. Saat ramai, Budi mencatat informasi inti—nama pelanggan, pesanan, jumlah, dan nomor kontak—secara singkat, kemudian melengkapi detail ketika keadaan lebih tenang. Pesanan yang belum lengkap dapat ditandai untuk diperiksa kembali. Peserta juga menyarankan pencocokan catatan dengan pesan WhatsApp sebelum menyiapkan barang dan pemeriksaan di akhir hari.
+
+Untuk perubahan pesanan, peserta menyarankan mencoret informasi lama dengan satu garis agar tetap terbaca, menuliskan informasi terbaru, dan memberi tanda bintang pada pesanan yang berubah. Keberhasilan uji coba akan dinilai dari jumlah pesanan yang terlewat, kesesuaian catatan dengan pesanan terbaru, dan apakah cara tersebut praktis serta tidak menambah banyak pekerjaan.
+
+Saat Budi khawatir pemeriksaan berulang akan menambah beban karena ia juga melayani pelanggan langsung, peserta menyederhanakan rencana: satu buku, satu baris per pesanan, informasi inti, dan satu kali pencocokan dengan WhatsApp sebelum menyiapkan barang. Budi menyatakan cara tersebut cukup praktis untuk dicoba selama tiga hari. Percakapan retest berakhir ketika Budi menanyakan cara mencegah pesanan yang sama sekali belum sempat dicatat saat ia sedang melayani pelanggan langsung; peserta belum menjawab pertanyaan terakhir ini sebelum masuk ke refleksi.
+
+# Evaluasi ASK
+
+## 1. Attitude (Sikap)
+
+Peserta menunjukkan empati terhadap kekhawatiran Budi dan menghargai kebiasaan kerja yang sudah ada. Peserta tidak menyalahkan Budi atas pesan atau pesanan yang terlewat dan tidak memaksakan penggunaan AI atau aplikasi baru. Budi dilibatkan dalam menentukan prioritas, memilih opsi, dan menilai kelayakan uji coba.
+
+**Area pengembangan:** terus memberi ruang kepada pelanggan untuk mengusulkan penyesuaian, khususnya ketika mereka menjelaskan kendala baru.
+
+## 2. Skills (Keterampilan)
+
+Peserta menggunakan pertanyaan terbuka, mendengarkan kebutuhan, merangkum masalah, membandingkan alternatif, dan menyusun rencana uji coba dengan rentang waktu serta indikator evaluasi. Ketika Budi menyampaikan keberatan, peserta menyesuaikan rencana agar lebih sederhana.
+
+**Area pengembangan:** sebelum menyimpulkan rencana, antisipasi skenario operasional yang mungkin mengganggu pelaksanaan—termasuk pesanan yang belum sempat dicatat sama sekali ketika Budi melayani pelanggan langsung. Pertanyaan terakhir Budi belum terselesaikan dalam simulasi, sehingga aspek ini masih menjadi peluang untuk pengembangan lebih lanjut.
+
+## 3. Knowledge (Pengetahuan)
+
+Peserta memahami bahwa solusi yang tepat tidak harus berupa AI. Rekomendasi mempertimbangkan biaya, kebiasaan kerja, kemudahan penggunaan, risiko perubahan pesanan, dan kebutuhan mengevaluasi hasil sebelum menerapkan perubahan lebih luas.
+
+**Area pengembangan:** buat indikator keberhasilan sespesifik mungkin, misalnya jumlah pesanan yang tidak tercatat, jumlah ketidaksesuaian catatan, dan perkiraan beban waktu pencatatan selama tiga hari.
+
+# Hasil Retest
+
+Dalam retest, Budi menyampaikan kekhawatiran bahwa pencatatan dan pemeriksaan WhatsApp dapat menambah beban, terutama ketika ia melayani pelanggan di toko. Peserta merespons dengan menyederhanakan proses menjadi satu buku dan satu baris per pesanan, pencatatan informasi inti, serta pencocokan sekali sebelum menyiapkan barang.
+
+Respons ini menunjukkan kemampuan beradaptasi dan mempertahankan solusi yang sesuai dengan kebiasaan Budi. Namun, pertanyaan lanjutan mengenai pesanan yang sama sekali belum sempat dicatat saat ramai belum dijawab. Dengan demikian, retest memperlihatkan kemajuan dalam penyederhanaan solusi sekaligus menyisakan satu risiko operasional yang perlu ditangani.
+
+# Refleksi Peserta
+
+Peserta menilai kekuatan utamanya adalah mendengarkan kebutuhan Budi dan menyesuaikan solusi dengan kebiasaan serta keterbatasannya. Peserta tidak langsung menawarkan AI, tetapi mengajak Budi mencoba pencatatan sederhana yang murah dan mudah diterapkan, serta melibatkan Budi dalam menentukan uji coba dan mengevaluasi hasilnya.
+
+Hal yang ingin ditingkatkan adalah kemampuan menyederhanakan solusi agar tidak menambah beban kerja pelanggan, khususnya saat pelanggan sedang sibuk. Peserta ingin lebih teliti mempertimbangkan kendala praktik sebelum menyarankan langkah yang realistis.
+
+# Kesimpulan dan Rekomendasi Pengembangan
+
+Secara umum, peserta menunjukkan pendekatan konsultatif yang berpusat pada kebutuhan pelanggan. Sikap empatik, pertanyaan terbuka, perumusan masalah, dan kesediaan menyesuaikan rekomendasi menjadi kekuatan utama. Peserta juga menghindari asumsi bahwa teknologi atau AI selalu merupakan jawaban terbaik.
+
+Untuk meningkatkan kualitas konsultasi berikutnya, peserta disarankan untuk:
+
+1. Menguji rencana terhadap skenario tersibuk sebelum menyepakatinya.
+2. Menanyakan bagaimana pesanan yang belum sempat dicatat dapat ditandai atau diingat tanpa menambah langkah yang rumit.
+3. Menetapkan indikator evaluasi yang sederhana dan terukur.
+4. Mengonfirmasi bahwa setiap langkah dapat dilakukan dalam alur kerja pelanggan yang sebenarnya.
+
+**Catatan:** Laporan ini disusun berdasarkan percakapan simulasi sesi 3a yang berlangsung melalui teks. Penilaian bersifat kualitatif dan tidak menyatakan skor numerik yang tidak diberikan dalam asesmen.

@@ -1,0 +1,134 @@
+---
+title: "Laporan Asesmen QMD — Sesi 2b (Revisi)"
+subtitle: "Komunikasi Empatik dan Asertif dalam Menghadapi Kesibukan serta Perbedaan Pendapat"
+author: "Lana Dzakira Cahyadi"
+date: "2026-10-15"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Identitas Peserta
+
+- **Nama:** Lana Dzakira Cahyadi
+- **NIM:** 18225099
+- **Kelas:** 01
+- **Sesi:** 2b
+- **Kasus:** Cyntia (K2-03)
+- **Metode asesmen:** Percakapan berbasis teks
+
+# Tujuan Komunikasi
+
+Peserta ingin memahami kondisi dan kebutuhan Cyntia tanpa langsung menyimpulkan atau menghakimi. Tujuan lainnya adalah membantu Cyntia menyampaikan kebutuhannya secara asertif, mempertimbangkan perspektif anggota kelompok lain, menjaga hubungan pertemanan, dan mencari langkah yang realistis agar tanggung jawab tetap terselesaikan.
+
+Pada tahap perencanaan, peserta mengemukakan beberapa dugaan awal—seperti beban tugas, kesibukan lain, atau perasaan bahwa pendapatnya kurang didengarkan—seraya menyatakan bahwa dugaan tersebut perlu dikonfirmasi terlebih dahulu.
+
+# Ringkasan Simulasi
+
+## 1. Menggali situasi dan kebutuhan
+
+Simulasi dimulai ketika Cyntia mengatakan bahwa minggu itu banyak hal yang harus dikerjakan. Peserta merespons dengan ramah dan mengajukan pertanyaan terbuka mengenai kesibukan serta hal yang paling menyita waktu atau pikirannya.
+
+Cyntia menjelaskan bahwa ia sedang menyiapkan kegiatan komunitas, menghadapi tugas kuliah yang menumpuk, dan mengikuti beberapa rapat. Ia juga merasa ide-idenya kurang didengarkan sehingga semangatnya menurun, sementara ia tetap khawatir tanggung jawabnya terbengkalai.
+
+Peserta memvalidasi kelelahan dan kekecewaan Cyntia, lalu menggali apakah beban utama berasal dari banyaknya kesibukan atau dari perasaan bahwa usaha dan pendapatnya kurang dihargai. Ketika Cyntia menjelaskan bahwa ia belum pernah membicarakan hal tersebut secara terbuka karena takut dianggap sensitif atau mengeluh, peserta menegaskan bahwa menyampaikan kebutuhan tidak sama dengan menghindari tanggung jawab.
+
+## 2. Merancang langkah komunikasi
+
+Peserta menanyakan cara yang paling nyaman bagi Cyntia untuk menyampaikan kebutuhannya. Cyntia memilih memulai melalui chat karena khawatir emosinya terbawa jika berbicara langsung.
+
+Peserta kemudian membantu merancang pesan untuk grup. Dalam draf tersebut, Cyntia menyatakan tetap ingin bertanggung jawab menyelesaikan bagiannya, menjelaskan bahwa pekerjaan tambahan menyita waktu, meminta agar ide setiap anggota diberi kesempatan untuk dibahas, serta mengusulkan diskusi singkat untuk memperjelas pembagian tugas dan tenggat.
+
+Pesan disusun dengan bahasa yang tidak menuduh dan berfokus pada keadilan, kapasitas anggota, serta penyelesaian tugas tepat waktu.
+
+## 3. Menghadapi kemungkinan penolakan
+
+Cyntia khawatir anggota kelompok akan mengatakan bahwa semua orang juga sibuk dan ia seharusnya menyelesaikan bagiannya sendiri. Peserta mengakui kekhawatiran tersebut, tetapi tidak memperlakukan penolakan sebagai sesuatu yang pasti terjadi.
+
+Peserta menyarankan respons yang mengakui kesibukan semua anggota sambil menjelaskan bahwa pekerjaan tambahan dapat ditinjau kembali agar pembagian lebih seimbang. Peserta juga mengusulkan penentuan prioritas, pembagian tanggung jawab sesuai kapasitas, dan tenggat yang jelas. Peserta menekankan bahwa Cyntia tidak perlu memaksakan semua keinginannya diterima, tetapi juga tidak perlu mengabaikan kebutuhannya sendiri.
+
+# Evaluasi Komunikasi Berdasarkan ASK
+
+## Attitude — Sikap
+
+**Kekuatan yang tampak:**
+
+- Menunjukkan empati terhadap kelelahan, kekecewaan, dan kekhawatiran Cyntia.
+- Tidak langsung menghakimi Cyntia maupun anggota kelompok lain.
+- Menghargai kebutuhan Cyntia untuk didengarkan sekaligus mengakui bahwa anggota lain juga memiliki kesibukan.
+- Mendorong tanggung jawab dan penyelesaian masalah tanpa memperbesar konflik.
+- Berusaha menjaga hubungan pertemanan tanpa meminta Cyntia mengabaikan kebutuhannya sendiri.
+
+**Area pengembangan:**
+
+- Tetap perlu menjaga keseimbangan perspektif dengan mengonfirmasi fakta dan mendengar kondisi anggota lain sebelum menyimpulkan bahwa pembagian beban tidak seimbang.
+- Saat menghadapi penolakan, peserta dapat membantu Cyntia tetap tenang dan terbuka terhadap kemungkinan penyesuaian dari semua pihak.
+
+## Skills — Keterampilan
+
+**Kekuatan yang tampak:**
+
+- Menggunakan pertanyaan terbuka untuk menggali kesibukan, sumber tekanan, kebutuhan, dan cara komunikasi yang nyaman bagi Cyntia.
+- Memvalidasi perasaan dan merangkum dilema Cyntia: ingin pendapatnya didengar, tetapi tetap ingin bertanggung jawab.
+- Membantu menyusun pesan yang asertif, sopan, dan tidak menyalahkan.
+- Mengusulkan langkah praktis berupa peninjauan pekerjaan tambahan, penentuan prioritas, pembagian tanggung jawab, dan kesepakatan tenggat.
+- Menyiapkan respons terhadap keberatan dengan mengakui bahwa semua anggota memiliki kesibukan sambil tetap menyampaikan kebutuhan Cyntia.
+
+**Area pengembangan:**
+
+- Membuat usulan lebih spesifik dengan mengidentifikasi pekerjaan tambahan yang perlu ditinjau, kapasitas setiap anggota, prioritas, dan tenggat yang disepakati.
+- Sebelum menawarkan diskusi ulang, dapat menanyakan apakah Cyntia sudah mencoba langkah tertentu dan bagaimana respons kelompok terhadapnya.
+- Menetapkan cara menindaklanjuti kesepakatan agar keputusan tidak berhenti pada diskusi.
+
+## Knowledge — Pengetahuan
+
+**Pemahaman yang tampak:**
+
+- Menyampaikan kebutuhan dan batas kapasitas tidak sama dengan menghindari tanggung jawab.
+- Komunikasi asertif dapat dilakukan tanpa menuduh atau merendahkan pihak lain.
+- Pembagian tugas perlu mempertimbangkan kapasitas, prioritas, dan tenggat.
+- Pendapat anggota perlu mendapat kesempatan untuk dipertimbangkan, sementara keputusan kelompok tetap perlu diarahkan pada kebutuhan tugas.
+- Penolakan sebaiknya ditanggapi dengan tenang dan dijadikan dasar untuk memperjelas masalah, bukan sebagai alasan untuk langsung menyalahkan.
+
+**Area pengembangan:**
+
+- Menggunakan kriteria yang lebih konkret untuk menilai apakah pembagian kerja memang tidak seimbang.
+- Memastikan setiap kesepakatan menyebutkan siapa mengerjakan apa dan kapan pekerjaan harus selesai.
+- Mengevaluasi efektivitas solusi berdasarkan tanggapan nyata dan tindak lanjut kelompok.
+
+# Retest
+
+Dalam retest, Cyntia menyampaikan bahwa seorang anggota kelompok menjawab bahwa semua orang juga sibuk dan Cyntia seharusnya menyelesaikan bagiannya tanpa membuang waktu untuk membahas persoalan tersebut.
+
+Peserta merespons dengan tenang. Ia mengakui bahwa semua anggota memiliki kesibukan, menegaskan bahwa Cyntia tetap ingin bertanggung jawab, dan menjelaskan bahwa peninjauan pekerjaan tambahan bertujuan membuat pembagian lebih seimbang. Peserta mengusulkan diskusi singkat untuk menentukan prioritas serta membagi tanggung jawab sesuai kapasitas masing-masing.
+
+**Penilaian retest:** Respons menunjukkan empati, komunikasi asertif, dan orientasi pada solusi. Peserta tidak membalas keberatan dengan tuduhan dan tetap mengarahkan pembicaraan pada tujuan bersama. Pengembangan yang relevan adalah memperjelas pekerjaan dan tenggat yang perlu ditinjau agar usulan lebih terukur.
+
+# Evaluasi Berdasarkan TAIDA
+
+Secara kualitatif, perilaku komunikasi yang tampak dapat dipetakan ke tahapan TAIDA sebagai berikut:
+
+- **Track:** Peserta menggali kesibukan, perasaan, sumber tekanan, serta kekhawatiran Cyntia sebelum menawarkan langkah.
+- **Analyze:** Peserta membedakan kemungkinan sumber masalah—beban pekerjaan, kesibukan, dan perasaan tidak didengarkan—serta mengakui bahwa respons anggota lain belum dapat dipastikan.
+- **Imagine:** Peserta mempertimbangkan beberapa pilihan, seperti menyampaikan pesan melalui chat, berdiskusi, meninjau prioritas, dan memperjelas pembagian kerja.
+- **Decide:** Peserta membantu Cyntia memilih langkah awal yang nyaman baginya, yaitu menyusun pesan untuk grup.
+- **Act:** Peserta membantu menyiapkan pesan dan respons terhadap keberatan. Namun, simulasi tidak menunjukkan bahwa pesan tersebut benar-benar dikirim atau bahwa kelompok telah menyepakati pembagian baru.
+
+Pemetaan ini merupakan interpretasi kualitatif atas percakapan, bukan skor standar. Tindak lanjut dan hasil nyata belum dapat dinilai dari simulasi ini.
+
+# Refleksi Peserta
+
+Peserta menyatakan bahwa kekuatan utamanya adalah mendengarkan perasaan Cyntia, memahami sudut pandangnya, dan membantu mencari solusi tanpa menyalahkan anggota lain. Peserta juga berusaha mendorong komunikasi asertif agar Cyntia tetap bertanggung jawab sekaligus berani menyampaikan kebutuhannya.
+
+Hal yang ingin ditingkatkan adalah kemampuan menghadapi penolakan dengan lebih tenang dan mencari alternatif solusi ketika diskusi tidak berjalan sesuai harapan, tanpa merusak hubungan pertemanan.
+
+# Kesimpulan
+
+Dalam sesi 2b yang direvisi, peserta menunjukkan pendekatan komunikasi yang empatik dan suportif. Peserta menggali kebutuhan sebelum menawarkan solusi, membantu menyusun pesan asertif, serta mempertimbangkan perspektif anggota kelompok lain. Respons retest tetap tenang dan berorientasi pada kesepakatan praktis.
+
+Pengembangan berikutnya dapat difokuskan pada pengumpulan fakta yang lebih spesifik, perumusan kesepakatan terukur mengenai tugas dan tenggat, serta evaluasi tindak lanjut berdasarkan respons nyata. Tidak ada dasar untuk menyimpulkan bahwa konflik telah terselesaikan karena simulasi tidak mencakup hasil setelah komunikasi dengan kelompok.
+
+# Catatan Metodologis
+
+Laporan ini disusun berdasarkan percakapan simulasi, respons retest, perencanaan, dan refleksi yang muncul dalam sesi 2b. Temuan dibatasi pada perilaku komunikasi yang tampak dalam interaksi teks. Laporan ini bukan diagnosis atau pengukuran psikometrik.

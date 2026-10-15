@@ -1,0 +1,177 @@
+---
+title: "Laporan Asesmen Sesi 3B — Evaluasi dan Uji Ulang Solusi Digital"
+author: "Lana Dzakira Cahyadi"
+date: "2026-10-15"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Identitas
+
+- **Nama:** Lana Dzakira Cahyadi
+- **NIM:** 18225099
+- **Sesi:** 3B
+- **Kasus:** K3-03 — Pengelolaan Pesanan Cyntia
+- **Fokus asesmen:** Memahami kebutuhan pengguna, mengevaluasi solusi digital, memperbaiki alur kerja, dan menentukan kapan otomatisasi layak dipertimbangkan.
+
+# 1. Tujuan Sesi
+
+Sesi ini berfokus pada evaluasi dan uji ulang solusi yang diusulkan untuk membantu Cyntia mengelola pesanan usaha yang masuk melalui WhatsApp dan Instagram. Tujuannya adalah memastikan solusi yang dipilih sesuai dengan kebutuhan operasional, keterbatasan waktu, tenaga, dan anggaran Cyntia.
+
+Dalam simulasi ini, saya berupaya untuk tidak langsung menyarankan aplikasi berbayar atau AI. Saya terlebih dahulu menggali masalah, menyusun proses pencatatan sederhana, menentukan indikator evaluasi, dan mempertimbangkan perbaikan berdasarkan bukti dari uji coba.
+
+# 2. Ringkasan Simulasi
+
+## 2.1 Memahami masalah dan kebutuhan Cyntia
+
+Cyntia menerima sekitar 10–15 pesanan per hari, dan jumlahnya meningkat ketika ada promosi atau akhir pekan. Sekitar dua hingga tiga kali dalam seminggu, pesanan terlambat diproses karena tertimbun percakapan. Selama ini, Cyntia mengandalkan chat dan terkadang buku kecil untuk mengingat pesanan. Akibatnya, informasi pesanan, pembayaran, dan pengiriman dapat tidak sesuai, serta ia perlu mencari kembali chat ketika pelanggan menanyakan status pesanan.
+
+Cyntia menangani banyak tugas sendiri, termasuk pembayaran, persiapan barang, dan pengiriman. Ia hanya dapat meluangkan sekitar 15–20 menit sehari untuk mencoba proses baru dan lebih memilih alat gratis yang mudah digunakan.
+
+Berdasarkan kebutuhan tersebut, saya menyimpulkan bahwa solusi harus sederhana, tidak memerlukan pemindahan seluruh data lama, dan membantu memantau status pesanan tanpa menambah pekerjaan yang berlebihan.
+
+## 2.2 Mengusulkan uji coba spreadsheet
+
+Saya mengusulkan penggunaan spreadsheet gratis untuk mencatat pesanan baru terlebih dahulu. Setiap pesanan memiliki satu baris dengan informasi dasar seperti nama pelanggan, barang, identitas pesanan, status pembayaran, dan status pengiriman.
+
+Uji coba direncanakan berlangsung selama satu minggu. Indikator yang diamati adalah jumlah pesanan yang terlewat atau terlambat, waktu untuk mencari dan memperbarui status pesanan, waktu yang diperlukan untuk pencatatan, serta kendala yang muncul.
+
+Saya tidak menjanjikan bahwa spreadsheet pasti menghemat waktu. Manfaatnya perlu dibandingkan dengan kondisi awal setelah uji coba dilakukan.
+
+## 2.3 Menyesuaikan proses saat pesanan ramai
+
+Ketika Cyntia khawatir pencatatan akan menjadi pekerjaan tambahan saat ramai, saya mengusulkan agar orang yang menerima pesanan memberi label **Belum Dicatat** pada chat. Pesanan kemudian dimasukkan ke spreadsheet ketika ada jeda, dan status label diubah menjadi **Sudah Dicatat** setelah pencatatan selesai.
+
+Jika sedang ramai, petugas dapat memprioritaskan balasan kepada pelanggan, tetapi tetap melakukan pemeriksaan singkat di sela kesibukan untuk mengidentifikasi pesanan yang mendesak. Pada akhir hari, chat bertanda perlu dicocokkan dengan spreadsheet agar tidak ada pesanan yang tertinggal.
+
+## 2.4 Menetapkan tanggung jawab dan aturan cadangan
+
+Cyntia menjelaskan bahwa orang yang membantunya terkadang lupa menandai atau mencatat pesanan karena sibuk membalas pelanggan. Karena itu, saya mengusulkan satu alur minimum yang berlaku bagi siapa pun yang menerima pesanan:
+
+1. Orang yang menerima pesanan memberi label **Belum Dicatat** pada chat.
+2. Petugas yang sedang bertugas memasukkan pesanan ke spreadsheet ketika ada jeda.
+3. Orang yang menangani pesanan memperbarui status pembayaran dan pengiriman.
+4. Penanggung jawab yang ditunjuk memeriksa semua chat bertanda dan mencocokkannya dengan spreadsheet sebelum toko tutup.
+5. Jika penanggung jawab utama tidak sempat, tugas dialihkan secara jelas kepada orang pengganti.
+6. Pesanan yang belum selesai diperiksa dimasukkan ke daftar tindak lanjut, dengan nama penanggung jawab dan langkah penyelesaian yang jelas.
+
+Aturan ini dirancang untuk mengurangi ketergantungan pada Cyntia sebagai satu-satunya orang yang memastikan pencatatan berjalan.
+
+## 2.5 Menentukan kapan otomatisasi layak dipertimbangkan
+
+Saya menyarankan agar hasil uji coba diperiksa terlebih dahulu sebelum memutuskan memakai otomatisasi atau AI. Jika pesanan terlewat karena tugas tidak jelas atau pengecekan terlambat, alur kerja perlu diperbaiki. Jika spreadsheet sulit digunakan, format atau alat pencatatan dapat disederhanakan.
+
+Otomatisasi sederhana baru layak dipertimbangkan jika proses manual sudah dijalankan secara konsisten tetapi tetap kewalahan ketika volume pesanan meningkat. AI tidak harus digunakan apabila fitur biasa atau aturan kerja sederhana sudah cukup untuk mengatasi masalah.
+
+# 3. Asesmen Berdasarkan ASK
+
+Penilaian berikut merupakan evaluasi kualitatif terhadap perilaku yang tampak dalam percakapan simulasi, bukan skor formal.
+
+## 3.1 Attitude (Sikap)
+
+**Kekuatan yang tampak**
+- Mempertimbangkan kebutuhan, keterbatasan waktu, dan anggaran Cyntia sebelum memilih solusi.
+- Tidak langsung menganggap teknologi yang lebih kompleks sebagai pilihan terbaik.
+- Menjaga pendekatan yang realistis dengan mengusulkan uji coba terbatas.
+- Mempertimbangkan bahwa solusi perlu tetap berjalan ketika Cyntia atau orang yang membantu sedang sibuk.
+
+**Area pengembangan**
+- Memastikan pembagian tugas disepakati bersama oleh semua orang yang akan menjalankan proses.
+- Menetapkan batas waktu dan tanggung jawab yang jelas agar aturan tidak hanya menjadi kesepakatan lisan.
+
+## 3.2 Skills (Keterampilan)
+
+**Kekuatan yang tampak**
+- Menggali masalah operasional sebelum mengusulkan solusi.
+- Memecah proses menjadi langkah sederhana: menandai chat, mencatat pesanan, memperbarui status, dan melakukan pengecekan akhir.
+- Menetapkan indikator yang dapat diamati selama uji coba.
+- Menyusun aturan pengganti ketika penanggung jawab utama sedang sibuk.
+- Menggunakan hasil uji coba sebagai dasar untuk menentukan langkah berikutnya.
+
+**Area pengembangan**
+- Menentukan format pencatatan yang benar-benar minimum agar petugas tidak perlu memasukkan informasi berulang.
+- Menetapkan waktu pengecekan akhir dan memastikan orang pengganti mengonfirmasi bahwa tugas sudah diterima.
+- Menguji apakah alur ini tetap praktis pada jam promosi, bukan hanya pada hari biasa.
+
+## 3.3 Knowledge (Pengetahuan)
+
+**Pemahaman yang tampak**
+- Memahami bahwa masalah operasional tidak selalu membutuhkan aplikasi khusus atau AI.
+- Mengenali perbedaan antara masalah proses, masalah alat, dan keterbatasan kapasitas ketika volume pesanan meningkat.
+- Memahami pentingnya indikator evaluasi, seperti jumlah pesanan terlambat, waktu pencatatan, dan beban kerja.
+- Mengetahui bahwa otomatisasi perlu dipertimbangkan berdasarkan kebutuhan dan bukti, serta dibandingkan dengan biaya dan kemudahan penggunaannya.
+
+**Area pengembangan**
+- Memastikan hasil uji coba dibandingkan dengan kondisi awal yang sebanding, termasuk ketika jumlah pesanan sedang meningkat.
+- Mencatat penyebab setiap pesanan terlewat agar keputusan perbaikan tidak hanya berdasarkan perkiraan.
+
+# 4. Refleksi
+
+Hal yang sudah saya lakukan dengan baik adalah memahami kondisi Cyntia terlebih dahulu, mempertimbangkan keterbatasan sumber daya, dan mengusulkan solusi yang dapat diuji sebelum membuat keputusan lebih jauh. Saya juga mengembangkan usulan dari sekadar menggunakan spreadsheet menjadi alur kerja bersama yang memiliki penanggung jawab, tanda untuk pesanan yang belum dicatat, pengecekan akhir, dan aturan cadangan.
+
+Hal yang masih perlu diperbaiki adalah memastikan setiap tugas memiliki pemilik yang jelas dan tenggat yang realistis. Pengecekan akhir tidak cukup hanya menjadi tanggung jawab umum; harus ada orang utama, orang pengganti, serta konfirmasi bahwa tugas telah dialihkan apabila diperlukan.
+
+Jika mengulang percakapan, saya akan lebih awal menanyakan siapa saja yang menerima pesanan, bagaimana pembagian tugas saat ramai, dan kapan pengecekan akhir paling mungkin dilakukan. Saya juga akan membantu Cyntia menyepakati target uji coba yang sederhana, misalnya seluruh chat bertanda sudah dicocokkan sebelum tutup, keterlambatan menurun dibandingkan kondisi awal, dan pencatatan tidak melebihi waktu yang tersedia.
+
+# 5. Rencana Uji Coba dan Indikator Keberhasilan
+
+Uji coba selama satu minggu merupakan rencana yang disepakati dalam simulasi, bukan hasil yang sudah terbukti. Evaluasi dilakukan dengan mencatat data berikut:
+
+| Indikator | Cara memeriksa | Tujuan |
+|---|---|---|
+| Pesanan terlewat atau terlambat | Catat jumlah, waktu, dan penyebab setiap kejadian | Mengetahui apakah masalah berkurang |
+| Kecocokan chat dan spreadsheet | Cocokkan semua chat bertanda dengan daftar pesanan sebelum tutup | Menemukan pesanan yang belum tercatat |
+| Waktu pencatatan dan pencarian | Catat perkiraan waktu yang digunakan | Menilai apakah proses cukup praktis |
+| Beban kerja | Periksa apakah proses masih sesuai dengan waktu 15–20 menit per hari | Menghindari penambahan beban berlebihan |
+| Kejelasan tanggung jawab | Catat apakah petugas utama atau pengganti melakukan pengecekan | Memastikan tugas tidak terabaikan |
+| Kendala saat ramai | Catat kondisi dan penyebab hambatan | Menentukan penyesuaian yang diperlukan |
+
+Hasil perlu dibandingkan dengan kondisi awal, ketika keterlambatan terjadi sekitar dua hingga tiga kali per minggu. Jika jumlah pesanan selama uji coba jauh berbeda karena promosi atau akhir pekan, perbandingan harus mempertimbangkan perbedaan volume tersebut.
+
+# 6. Pemetaan Reflektif dengan TAIDA
+
+Bagian ini merupakan pemetaan retrospektif terhadap proses dalam simulasi menggunakan tahapan TAIDA: **Tracking, Analyzing, Imaging, Deciding, dan Acting**. Pemetaan ini bukan klaim bahwa seluruh tahapan telah dilaksanakan sebagai prosedur formal.
+
+## 6.1 Tracking — Mengamati situasi
+
+Saya mengidentifikasi pesanan yang tertimbun chat, ketidaksesuaian catatan, keterbatasan waktu Cyntia, dan kecenderungan orang yang membantu lupa mencatat ketika sibuk membalas pelanggan.
+
+## 6.2 Analyzing — Menganalisis penyebab
+
+Saya mempertimbangkan beberapa kemungkinan penyebab, yaitu pembagian tugas yang belum jelas, pencatatan yang tertunda saat ramai, dan kapasitas proses manual yang mungkin tidak memadai pada volume tinggi. Penyebab tersebut perlu diperiksa melalui catatan uji coba, bukan diasumsikan sejak awal.
+
+## 6.3 Imaging — Membayangkan kondisi yang diinginkan
+
+Kondisi yang diinginkan adalah setiap pesanan dapat dilacak dari chat ke spreadsheet, status pembayaran dan pengiriman jelas, serta pengecekan akhir tetap dilakukan meskipun Cyntia sedang menangani tugas lain.
+
+## 6.4 Deciding — Menentukan pilihan
+
+Pilihan yang diambil adalah memulai dari spreadsheet gratis, menggunakan label **Belum Dicatat**, menetapkan penanggung jawab dan pengganti, serta melakukan pencocokan pada akhir hari. Otomatisasi dipertimbangkan hanya jika bukti menunjukkan proses manual yang sudah konsisten masih kewalahan.
+
+## 6.5 Acting — Mengambil tindakan
+
+Tindakan yang direncanakan adalah menjalankan alur tersebut selama satu minggu, mencatat pesanan yang terlewat dan waktu yang digunakan, serta mengevaluasi hasilnya. Karena simulasi belum memuat hasil pelaksanaan uji coba nyata, efektivitas solusi belum dapat dinyatakan terbukti.
+
+# 7. Kesimpulan
+
+Dari simulasi Sesi 3B, saya belajar bahwa solusi digital yang baik harus sesuai dengan masalah dan kondisi pengguna. Spreadsheet gratis dapat menjadi langkah awal yang masuk akal bagi Cyntia, tetapi keberhasilannya bergantung pada alur kerja yang sederhana, pembagian tanggung jawab yang jelas, dan pengecekan akhir yang konsisten.
+
+Perbaikan yang penting dari usulan awal adalah menambahkan aturan yang berlaku untuk siapa pun yang menerima pesanan, label untuk pesanan yang belum dicatat, penanggung jawab utama dan pengganti, serta daftar tindak lanjut untuk pekerjaan yang belum selesai. Dengan demikian, proses tidak sepenuhnya bergantung pada Cyntia.
+
+Keputusan menggunakan otomatisasi atau AI sebaiknya dibuat setelah hasil uji coba diperiksa. Jika masalah berasal dari alur kerja, proses perlu diperbaiki terlebih dahulu. Jika alat yang digunakan tidak sesuai, alat atau formatnya dapat disederhanakan. Otomatisasi baru dipertimbangkan jika kebutuhan operasional masih belum terpenuhi oleh proses manual yang telah dijalankan secara konsisten.
+
+# 8. Rencana Tindak Lanjut
+
+1. Menyiapkan spreadsheet sederhana khusus untuk pesanan baru dengan kolom yang benar-benar diperlukan.
+2. Menetapkan label **Belum Dicatat** dan **Sudah Dicatat** serta aturan penggunaannya.
+3. Menentukan penanggung jawab utama dan orang pengganti untuk pengecekan akhir.
+4. Menjalankan uji coba selama satu minggu dan mencatat pesanan terlambat, penyebabnya, waktu pencatatan, serta kendala.
+5. Membandingkan hasil uji coba dengan kondisi awal dan mempertimbangkan perubahan volume pesanan.
+6. Memperbaiki proses atau format spreadsheet berdasarkan temuan.
+7. Mempertimbangkan otomatisasi sederhana hanya jika bukti menunjukkan bahwa proses manual masih menjadi hambatan.
+
+---
+
+*Catatan metodologis: Laporan ini disusun berdasarkan percakapan simulasi kasus Cyntia. Uji coba satu minggu masih berupa rencana; tidak ada hasil pengukuran nyata yang diasumsikan atau ditambahkan.*
